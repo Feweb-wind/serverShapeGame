@@ -1,0 +1,16 @@
+{
+  "name": "Game-main",
+  "version": "1.0.0",
+  "description": "已完成： - 随机生成卡片 - 绑定事件 待做： - 点击事件的编写，交互（三个方框消掉） - 动画库 - 道具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^6.7.1",
+    "style-loader": "^3.3.1"
+  }
+}

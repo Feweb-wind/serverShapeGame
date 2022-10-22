@@ -1,0 +1,16 @@
+.box {
+    margin: auto;
+}
+
+.card {
+    box-sizing: border-box;
+    opacity: 1;
+    cursor: pointer;
+    transition: all 0.3s;
+    border-radius: 2px;
+    background: rgb(247, 255, 213);
+    box-shadow: 0px 3px 0 0 #fff, 0 8px 0 0 #ddd, 0 8px 0 2px #333, 0 0 0 2px #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

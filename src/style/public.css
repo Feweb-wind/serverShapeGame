@@ -1,0 +1,14 @@
+.icon {
+    width: 80%;
+    height: 80%;
+    vertical-align: -0.15em;
+    fill: currentColor;
+    overflow: hidden;
+}
+
+svg,
+use,
+symbol,
+path {
+    pointer-events: none;
+}
